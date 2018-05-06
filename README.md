@@ -17,5 +17,14 @@ To use this system, you need to upload the __userdata.sql__ file to the server. 
 
 # __DEMO__:
 
-* ## This is Login Page
+* ## This is Home Page
 ![alt text](/images/crud1.png)
+
+* ## This is Create or Add info Page
+![alt text](/images/crud2.png)
+
+* ## Successfull Message after Inserting info
+![alt text](/images/crud3.png)
+
+* ## This is Update and Delete Page
+![alt text](/images/crud4.png)
