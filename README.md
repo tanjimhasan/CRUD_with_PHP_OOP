@@ -8,3 +8,14 @@ THis is simple CRUD system.
 
 ## __Usage__: 
 To use this system, you need to upload the __userdata.sql__ file to the server. This file contains the database . Then you can easily test this system by operating. 
+
+# __Feature__:
+* CREATE
+* READ
+* UPDATE
+* DELETE
+
+# __DEMO__:
+
+* ## This is Login Page
+![alt text](/images/crud1.png)
